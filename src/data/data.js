@@ -2,73 +2,71 @@ export const projects = [
   {
     id: 1,
     image:
-      "https://cdn-developer-wp.arc.dev/wp-content/uploads/2022/06/coding-programming-project-ideas-1128x635.jpg",
-    title: "Developpement d'une application web avec Laravel et React Js",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, cumque sequi eos suscipit repellendus in quia odit, et itaque amet magni assumenda earum ullam ipsam doloribus recusandae. Voluptatibus, vitae ducimus! Laboriosam, iste! Officia quam, facere similique, libero provident vitae unde ratione commodi possimus ab minus nemo? Tempora adipisci aperiam odio aut dolores nemo a iusto quae, illum nulla, error eius! Nisi voluptatem eaque officia obcaecati reprehenderit, nesciunt qui consequatur sint voluptas dignissimos sequi magni voluptates dicta similique quas amet praesentium ipsam maiores illum fugiat, laboriosam dolore aliquam deleniti. Quod, et?",
-  },
+    "src/assets/images/site-cv-capture.jpg",
+  title: "Création d'un CV en ligne",
+  description:
+    "Site CV statique, intuitif et élégant pour mettre en valeur tes compétences et expériences professionnelles.",
+
+    },
   {
     id: 2,
     image:
-      "https://www.wisembly.com/assets/wizuploads/2022/12/page-event-en-800x704.webp",
-    title: "Developpement d'un site web d'evenements",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, cumque sequi eos suscipit repellendus in quia odit, et itaque amet magni assumenda earum ullam ipsam doloribus recusandae. Voluptatibus, vitae ducimus! Laboriosam, iste! Officia quam, facere similique, libero provident vitae unde ratione commodi possimus ab minus nemo? Tempora adipisci aperiam odio aut dolores nemo a iusto quae, illum nulla, error eius! Nisi voluptatem eaque officia obcaecati reprehenderit, nesciunt qui consequatur sint voluptas dignissimos sequi magni voluptates dicta similique quas amet praesentium ipsam maiores illum fugiat, laboriosam dolore aliquam deleniti. Quod, et?",
-  },
+    "https://cdn-developer-wp.arc.dev/wp-content/uploads/2022/06/coding-programming-project-ideas-1128x635.jpg",
+  title: "Création d'une application web Click and Collect",
+  description:
+    "Menu personnalisable via interface administrateur et design totalement personnalisé en adéquation avec la charte graphique de l'entreprise.",
+},
   {
     id: 3,
     image:
-      "https://kinsta.com/fr/wp-content/themes/kinsta/images/custom-pages/page/landing-best-wordpress-themes/screenshots/oceanwp.jpg",
-    title: "Developpement d'une application web-ecommerce",
+      "https://images-wixmp-530a50041672c69d335ba4cf.wixmp.com/templates/image/0221720df7030f436831645e3e4e2f6a48aae2a68ac54981dd6a2e5fc744a76e.jpg",
+    title: "Développement d'un site d'annonces immobilières",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, cumque sequi eos suscipit repellendus in quia odit, et itaque amet magni assumenda earum ullam ipsam doloribus recusandae. Voluptatibus, vitae ducimus! Laboriosam, iste! Officia quam, facere similique, libero provident vitae unde ratione commodi possimus ab minus nemo? Tempora adipisci aperiam odio aut dolores nemo a iusto quae, illum nulla, error eius! Nisi voluptatem eaque officia obcaecati reprehenderit, nesciunt qui consequatur sint voluptas dignissimos sequi magni voluptates dicta similique quas amet praesentium ipsam maiores illum fugiat, laboriosam dolore aliquam deleniti. Quod, et?",
-  },
-  {
-    id: 4,
-    image:
-      "https://kinsta.com/fr/wp-content/themes/kinsta/images/custom-pages/page/landing-best-wordpress-themes/screenshots/astra.jpg",
-    title: "Developpement du site web d'Astra",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, cumque sequi eos suscipit repellendus in quia odit, et itaque amet magni assumenda earum ullam ipsam doloribus recusandae. Voluptatibus, vitae ducimus! Laboriosam, iste! Officia quam, facere similique, libero provident vitae unde ratione commodi possimus ab minus nemo? Tempora adipisci aperiam odio aut dolores nemo a iusto quae, illum nulla, error eius! Nisi voluptatem eaque officia obcaecati reprehenderit, nesciunt qui consequatur sint voluptas dignissimos sequi magni voluptates dicta similique quas amet praesentium ipsam maiores illum fugiat, laboriosam dolore aliquam deleniti. Quod, et?",
-  },
-  {
-    id: 5,
-    image:
-      "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDUnXae0wDzyMEYAaLMS5kXbVsKvwzV9Bvfhvqlg6FEm8crY87",
-    title: "Site web : Agence de developpement web",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, cumque sequi eos suscipit repellendus in quia odit, et itaque amet magni assumenda earum ullam ipsam doloribus recusandae. Voluptatibus, vitae ducimus! Laboriosam, iste! Officia quam, facere similique, libero provident vitae unde ratione commodi possimus ab minus nemo? Tempora adipisci aperiam odio aut dolores nemo a iusto quae, illum nulla, error eius! Nisi voluptatem eaque officia obcaecati reprehenderit, nesciunt qui consequatur sint voluptas dignissimos sequi magni voluptates dicta similique quas amet praesentium ipsam maiores illum fugiat, laboriosam dolore aliquam deleniti. Quod, et?",
-  },
-];
+      "Site d'annonces de location immobilière avec une interface conviviale et un système de recherche avancé.",
+  }]
 
 export const experience = [
   {
     id: 1,
-    title: "Co-Fondateur & Lead Developer - Startup Hub (2022 - Present)",
+    title: "DÉVELOPPEUR WEB, FAST-GOOD, SEPTEMBRE 2023 (STAGE)",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet architecto quos earum minus modi blanditiis aperiam officiis, explicabo sint nulla ipsam adipisci excepturi. Nulla, quis. Iusto molestias eligendi optio fugiat! Quam qui laborum culpa sequi saepe commodi dolorum voluptatum sunt dignissimos molestias recusandae corporis facilis, quos maxime voluptates accusamus eveniet, non illo atque! Minima laudantium exercitationem deserunt maiores optio nam?",
+      "Création d’un site web Click and Collect, Menu personnalisable via interface administrateur et design totalement personnalisable.",
   },
   {
     id: 2,
-    title: "Ingenieur Logiciel - Google (2019 - 2022)",
+    title: "EMPLOYÉ POLYVALENT, QUICK BUCHELAY, 2022",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet architecto quos earum minus modi blanditiis aperiam officiis, explicabo sint nulla ipsam adipisci excepturi. Nulla, quis. Iusto molestias eligendi optio fugiat! Quam qui laborum culpa sequi saepe commodi dolorum voluptatum sunt dignissimos molestias recusandae corporis facilis, quos maxime voluptates accusamus eveniet, non illo atque! Minima laudantium exercitationem deserunt maiores optio nam?",
+      "Préparation de commandes. Contrôle de l’état des produits. Encaissement. Nettoyage de surface de travail.",
   },
   {
     id: 3,
-    title: "Ingenieur Logiciel - eBay (2018 - 2019)",
+    title: "CHARGÉ DE CAISSE ET D’ACCUEIL CLIENT, BOULANGERIE AM COIN CHAUD, 2021-2022",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet architecto quos earum minus modi blanditiis aperiam officiis, explicabo sint nulla ipsam adipisci excepturi. Nulla, quis. Iusto molestias eligendi optio fugiat! Quam qui laborum culpa sequi saepe commodi dolorum voluptatum sunt dignissimos molestias recusandae corporis facilis, quos maxime voluptates accusamus eveniet, non illo atque! Minima laudantium exercitationem deserunt maiores optio nam?",
+      "Accueil client. Encaissement via l’outil: Caisse enregistreuse. Vente de produits boulanger. Facing et mise en vitrine de produits boulanger.",
   },
 ];
 
+
 export const educations = [
   {
-    title: "MSc Informatique",
-    name: "Collège universitaire de Londres (2017-2018)",
+    id: 1,
+    title: "Bachelor Développeur Web",
+    name: "DIGITAL CAMPUS Paris (Septembre 2024)",
   },
   {
-    title: "B.Sc. Informatique",
-    name: "Université de Bristol (2013-2017)",
+    id: 2,
+    title: "Formation Développeur Web Et Web Mobile",
+    name: "ALT RH Trappes (2023)",
+  },
+  {
+    id: 3,
+    title: "BUT Technique de commercialisation",
+    name: "Université de Mantes En Yvelines (2021)",
+  },
+  {
+    id: 4,
+    title: "BAC Sciences et Technologies du Management et de la Gestion",
+    name: "Lycée Leopold Sedar Senghor (2020)",
   },
 ];
+
