@@ -6,7 +6,8 @@ export const projects = [
   title: "Création d'un CV en ligne",
   description:
     "Site CV statique, intuitif et élégant pour mettre en valeur tes compétences et expériences professionnelles.",
-
+    link:
+    "https://github.com/AmineF78/Mon-CV"
     },
   {
     id: 2,
@@ -15,7 +16,9 @@ export const projects = [
   title: "Création d'une application web Click and Collect",
   description:
     "Menu personnalisable via interface administrateur et design totalement personnalisé en adéquation avec la charte graphique de l'entreprise.",
-},
+    link:
+    ""
+  },
   {
     id: 3,
     image:
@@ -23,7 +26,9 @@ export const projects = [
     title: "Développement d'un site d'annonces immobilières",
     description:
       "Site d'annonces de location immobilière avec une interface conviviale et un système de recherche avancé.",
-  }]
+      link:
+      "https://github.com/AmineF78/le-bon-appart/tree/main/le_bon_appart"
+    }]
 
 export const experience = [
   {

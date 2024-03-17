@@ -44,7 +44,7 @@ Je suis un développeur web créatif et ponctuel, passionné par la création d'
                 <img src={item.image} alt={item.title} />
                 <h2>{item.title}</h2>
                 <p>{item.description}</p>
-                <Button type="link" icon={<LinkOutlined />}>En savoir plus </Button>
+                <Button type="link" icon={<LinkOutlined />} a href={item.link}>En savoir plus </Button>
               </div>
                 <div className="right"></div>
               </article>);
