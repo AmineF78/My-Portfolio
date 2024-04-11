@@ -6,7 +6,7 @@ const HeaderComp = () => {
   return (
     <header>
         <div className="left">
-        <img src="public/images/profile-pic.png" alt="my picture"/>
+        <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTelGlM0lN48BQycUTAtQySubKPqE4pf6GHYNgZfvLvCXkakeJa" alt="my picture"/>
         <div className="user-infos">
             <h1>Amine Fakhri</h1>
             <h3>Étudiant en 2ème année de bachelor développement Web Chez Digital Campus Paris.</h3>

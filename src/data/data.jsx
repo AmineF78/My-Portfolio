@@ -2,7 +2,7 @@ export const projects = [
   {
     id: 1,
     image:
-    "public/images/site-cv-capture.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJK36IiBF2DcZyE0UukqCHV4NGoPwS_e49lR0-u1gmci_aFJkJ",
   title: "Création d'un CV en ligne",
   description:
     "Site CV statique, intuitif et élégant pour mettre en valeur tes compétences et expériences professionnelles.",
