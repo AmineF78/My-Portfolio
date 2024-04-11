@@ -1,6 +1,6 @@
 import React from 'react'
 import { EnvironmentFilled, EnvironmentOutlined, LikeOutlined, LinkOutlined, MailOutlined, NumberOutlined, PhoneOutlined } from "@ant-design/icons";
-import { educations } from "../data/data.js";
+import { educations } from "../data/data.jsx";
 import { Button } from "antd";
 
 
@@ -89,6 +89,16 @@ const AsideComp = () => {
     <span className="level"> A2 </span>
   </div>
 
+</div>
+<div className='section'>
+  <h2>Centres d'intéret</h2>
+  <ul>
+  <li>Sport</li>
+  <li>Voyage</li>
+  <li>jeux vidéo</li>
+  <li>Automobile</li>
+  <li>Moto</li>
+      </ul>
 </div>
         </aside>
   )
