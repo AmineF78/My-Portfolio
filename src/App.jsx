@@ -28,7 +28,7 @@ Je suis un développeur web de 20 ans, créatif et ponctuel, passionné par la c
           <section className="projects">
   <h2>Mes Projets</h2>
   <article>
-    <img className="featured-img" src="src/assets/images/img-projects.webp" alt="Projets" />
+    <img className="featured-img" src="public/images/img-projects.webp" alt="Projets" />
     <div className="project-info">
       <h3>site web vitrine pour boulangerie </h3>
       <p>Site vitrine dynamique et responsive incluant un CRUD pour gérer les produits et la création de compte administrateur.</p>

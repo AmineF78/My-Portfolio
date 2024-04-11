@@ -1,13 +1,12 @@
 import { GithubOutlined, LinkedinOutlined, MessageOutlined } from '@ant-design/icons';
 import React from 'react';
-import avatar from '../assets/images/avatar.png';
 import {Button} from "antd";
 
 const HeaderComp = () => {
   return (
     <header>
         <div className="left">
-        <img src="src/assets/images/profile-pic.png" alt="my picture"/>
+        <img src="public/images/profile-pic.png" alt="my picture"/>
         <div className="user-infos">
             <h1>Amine Fakhri</h1>
             <h3>Étudiant en 2ème année de bachelor développement Web Chez Digital Campus Paris.</h3>
