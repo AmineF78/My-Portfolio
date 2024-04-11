@@ -21,7 +21,8 @@ function App() {
                 À Propos De Moi
               </h2>
               <p>
-Je suis un développeur web créatif et ponctuel, passionné par la création d'expériences en ligne attrayantes. À 19 ans, j'ai découvert ma passion pour le développement web et depuis lors, je suis déterminé à poursuivre une carrière dans le domaine. Malgré mon niveau d'expérience actuel, je suis convaincu de ma capacité à m'améliorer et à apporter une contribution significative dans un environnement collaboratif et éducatif.</p>
+Je suis un développeur web de 20 ans, créatif et ponctuel, passionné par la création d'expériences en ligne attrayantes. À 19 ans, j'ai découvert ma passion pour le développement web et depuis lors, je suis déterminé à poursuivre une carrière dans le domaine. Malgré mon niveau d'expérience actuel, je suis convaincu de ma capacité à m'améliorer et à apporter une contribution significative dans un environnement collaboratif et éducatif.</p>
+<p>Je suis actuellement à la recherche d'une entreprise qui souhaiterait développer son équipe de développeurs en misant sur un développeur en herbe qui saura montrer des résultats très rapidement!</p>
             </article>
           </section>
           <section className="projects">

@@ -210,7 +210,7 @@ aside .skills .skills-list .skill-item .full{
 
 }
 aside .skills .skills-list .skill-item .percent-first {
-  width: 65%;
+  width: 70%;
   height: 15px;
   background-color: #0d6e3e;
 }
@@ -225,7 +225,7 @@ aside .skills .skills-list .skill-item .percent-third {
   background-color: #0d6e3e;
 }
 aside .skills .skills-list .skill-item .percent-fourth {
-  width: 90%;
+  width: 65%;
   height: 15px;
   background-color: #0d6e3e;
 }

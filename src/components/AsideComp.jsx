@@ -48,7 +48,7 @@ const AsideComp = () => {
                   </div>
                 </div>
               </div><div className="skill-item">
-                <span>PHP & SYMFONY</span>
+                <span>WORDPRESS & SHOPIFY</span>
                 <div className="full">
                   <div className="percent-fourth">
                   </div>

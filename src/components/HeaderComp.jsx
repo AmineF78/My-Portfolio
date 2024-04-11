@@ -7,10 +7,10 @@ const HeaderComp = () => {
   return (
     <header>
         <div className="left">
-        <img src={avatar} alt="my picture"/>
+        <img src="src/assets/images/profile-pic.png" alt="my picture"/>
         <div className="user-infos">
             <h1>Amine Fakhri</h1>
-            <h3>Étudiant en développement Web Chez Digital Campus Paris.</h3>
+            <h3>Étudiant en 2ème année de bachelor développement Web Chez Digital Campus Paris.</h3>
             <div className="contacts">
                 <div className="contact-item"><Button icon={<LinkedinOutlined/>} a href="https://www.linkedin.com/in/amine-fakhri-388844235/"></Button>
                 </div>
