@@ -1,7 +1,7 @@
 export const projects = [
   {
     id: 1,
-    image:"public/images/site-cv-capture.jpg",
+    image:"https://themewagon.com/wp-content/uploads/2021/06/agency-1.png",
   title: "Création d'un CV en ligne",
   description:
     "Site CV statique, intuitif et élégant pour mettre en valeur tes compétences et expériences professionnelles.",
