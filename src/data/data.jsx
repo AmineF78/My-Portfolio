@@ -2,12 +2,12 @@ export const projects = [
   {
     id: 1,
     image:
-    "src/assets/images/site-cv-capture.jpg",
+    "file:///Applications/MAMP/htdocs/portfolio-react/src/assets/images/site-cv-capture.jpg",
   title: "Création d'un CV en ligne",
   description:
     "Site CV statique, intuitif et élégant pour mettre en valeur tes compétences et expériences professionnelles.",
     link:
-    "https://github.com/AmineF78/Mon-CV",
+    "amine-fakhri-cv.netlify.app",
     InProgress: false
     },
   {
