@@ -9,7 +9,7 @@ const HeaderComp = () => {
         <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTelGlM0lN48BQycUTAtQySubKPqE4pf6GHYNgZfvLvCXkakeJa" alt="my picture"/>
         <div className="user-infos">
             <h1>Amine Fakhri</h1>
-            <h3>Étudiant en 2ème année de bachelor développement Web Chez Digital Campus Paris.</h3>
+            <h3>Étudiant et assistant formateur chez Start-Zup.</h3>
             <div className="contacts">
                 <div className="contact-item"><Button icon={<LinkedinOutlined/>} a href="https://www.linkedin.com/in/amine-fakhri-388844235/"></Button>
                 </div>
