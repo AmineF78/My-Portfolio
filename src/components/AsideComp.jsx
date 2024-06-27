@@ -11,7 +11,7 @@ const AsideComp = () => {
           <div className="contacts section">
             <div className="contact-item">
               <EnvironmentOutlined />
-              <span>Magnanville, 78200</span>
+              <span>Mantes la jolie, 78200</span>
             </div>
             <div className="contact-item">
               <PhoneOutlined />
@@ -29,7 +29,7 @@ const AsideComp = () => {
             <p>lorem</p>
             <div className="skills-list">
               <div className="skill-item">
-                <span>PHP & SYMFONY</span>
+                <span>PHP & LARAVEL</span>
                 <div className="full">
                   <div className="percent-first">
                   </div>

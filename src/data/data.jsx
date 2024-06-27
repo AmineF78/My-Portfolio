@@ -1,7 +1,7 @@
 export const projects = [
   {
     id: 1,
-    image:"https://themewagon.com/wp-content/uploads/2021/06/agency-1.png",
+    image:"https://images-wixmp-530a50041672c69d335ba4cf.wixmp.com/templates/image/df176939bc2a6c214d4c3040c361159b54d77163672a2877f1a3ba93eec9ee47.jpg",
   title: "Création d'un CV en ligne",
   description:
     "Site CV statique, intuitif et élégant pour mettre en valeur tes compétences et expériences professionnelles.",
@@ -35,17 +35,17 @@ export const projects = [
     }]
 
     export const experience = [
-  {
-    id: 1,
-    title: "DÉVELOPPEUR WEB, FAST-GOOD, SEPTEMBRE 2023 (STAGE)",
-    description: (
-      <ul>
-        <li>Création d’un site web Click and Collect</li>
-        <li>Menu personnalisable via interface administrateur</li>
-        <li>Design totalement personnalisable</li>
-      </ul>
-    ),
-  },
+      {
+        id: 1,
+        title: "ASSISTANT FORMATEUR EN DÉVELOPPEMENT WEB, MAI 2024",
+        description:(
+          <ul>
+            <li>Enseignement pédagogique portant sur les bases front-end et l'algorythmique</li>
+            <li>Accompagnement personnalisé sur la création d'un projet web personnel</li>
+            <li>Création de profil développeur web via l'optimisation des softs skills</li>
+          </ul>
+        ),
+      },
   {
     id: 2,
     title: "DÉVELOPPEUR WEB, CLIENT FICTIF,NOVEMBRE 2023",
@@ -59,6 +59,17 @@ export const projects = [
   },
   {
     id: 3,
+    title: "DÉVELOPPEUR WEB, FAST-GOOD, SEPTEMBRE 2023 (STAGE)",
+    description: (
+      <ul>
+        <li>Création d’un site web Click and Collect</li>
+        <li>Menu personnalisable via interface administrateur</li>
+        <li>Design totalement personnalisable</li>
+      </ul>
+    ),
+  },
+  {
+    id: 4,
     title: "CHARGÉ DE CAISSE ET D’ACCUEIL CLIENT, BOULANGERIE AM COIN CHAUD, 2021-2022",
     description: (
       <ul>
@@ -70,7 +81,7 @@ export const projects = [
     ),
   },
   {
-    id: 4,
+    id: 5,
     title: "EMPLOYÉ POLYVALENT, QUICK BUCHELAY, 2022",
     description: (
       <ul>
@@ -88,8 +99,8 @@ export const projects = [
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Développeur Web",
-    name: "DIGITAL CAMPUS Paris (Septembre 2024)",
+    title: "Formation Concepteur d'application",
+    name: "Start-Zup (2024)",
   },
   {
     id: 2,

@@ -20,10 +20,8 @@ function App() {
               <h2>
                 À Propos De Moi
               </h2>
-              <p>
-Je suis un développeur web de 20 ans, créatif et ponctuel, passionné par la création d'expériences en ligne attrayantes. À 19 ans, j'ai découvert ma passion pour le développement web et depuis lors, je suis déterminé à poursuivre une carrière dans le domaine. Malgré mon niveau d'expérience actuel, je suis convaincu de ma capacité à m'améliorer et à apporter une contribution significative dans un environnement collaboratif et éducatif.</p>
-<p>Je suis actuellement à la recherche d'une entreprise qui souhaiterait développer son équipe de développeurs en misant sur un développeur en herbe qui saura montrer des résultats très rapidement!</p>
-            </article>
+              <p>Je suis un développeur web junior de 20 ans, créatif, ponctuel et passionné par la création d'expériences en ligne captivantes. J'ai découvert ma passion pour le développement web à l'âge de 19 ans et depuis, je suis déterminé à me lancer dans une carrière dans ce domaine. Bien que je sois en début de parcours professionnel, je suis convaincu de ma capacité à évoluer rapidement et à apporter une contribution précieuse dans un cadre collaboratif et stimulant.</p>
+<p>Je suis actuellement à la recherche de ma première expérience professionnelle en tant que développeur web, au sein d'une entreprise qui souhaite accueillir un jeune talent prêt à s'investir pleinement et à démontrer son potentiel pour obtenir des résultats concrets et rapides !</p>            </article>
           </section>
           <section className="projects">
   <h2>Mes Projets</h2>
@@ -52,6 +50,10 @@ Je suis un développeur web de 20 ans, créatif et ponctuel, passionné par la c
       </article>
     );
   })}
+  {/*<div className="new-project">
+  <button name="ajouter_projet" href="">Ajouter un nouveau projet</button>
+
+  </div>*/}
 </section>
 
 
@@ -75,6 +77,27 @@ Je suis un développeur web de 20 ans, créatif et ponctuel, passionné par la c
 
 
   </>;
+
+  
 }
+{/*<?php 
+if (isset($_POST['ajouter_projet'])){
+  $nom_projet = $_POST['nom_projet'];
+  $description_projet = $_POST['description_projet'];
+  $etat_projet = $_POST['etat_projet'];
+
+  $sql = "INSERT INTO projets (nom_projet, description_projet, etat_projet) VALUES (?, ?, ?)";
+  $stmt = $mysqli->prepare($sql);
+  $stmt->bind_param("ssd", $nom_projet, $description_projet, $etat_projet);
+
+  if ($stmt->execute()){
+    $message = "Projet ajouté avec succès.";}
+    else{
+      $erreur = "Erreur lors de l'ajout du projet : " . $stmt->error;
+    }
+    $stmt->close();
+
+  }
+?>*/}
 
 export default App;
